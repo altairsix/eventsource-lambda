@@ -1,0 +1,8 @@
+{
+  "name": "eventsource",
+  "description": "Transport for publishing eventsource events to various AWS services using AWS lambda.",
+  "memory": 128,
+  "runtime": "golang",
+  "timeout": 15,
+  "environment": {}
+}
